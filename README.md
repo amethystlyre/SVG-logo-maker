@@ -13,7 +13,6 @@ This tool helps users quickly generate simple logo files saved in SVG file forma
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
 - [Tests](#tests)
-- [Questions](#questions)
     
 ## Installation
     

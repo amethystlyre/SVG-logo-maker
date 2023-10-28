@@ -44,7 +44,7 @@ describe('Shapes', () => {
 
 //Test to verify that a new circle object can be instantiated by inheriting shapes properties
 describe('Circle', () => {
-  it('should render a circlar shape background', () => {
+  it('should render a logo with circlar shape background', () => {
     const text = "AbC";
     const textColor = "white";
     const logoColor = "#191970";
@@ -59,7 +59,7 @@ describe('Circle', () => {
 
 //Test to verify that a new triangle object can be instantiated by inheriting shapes properties
 describe('Triangle', () => {
-  it('should render a triangular shape background', () => {
+  it('should render a logo with triangular shape background', () => {
     const text = "AbC";
     const textColor = "white";
     const logoColor = "#191970";
@@ -74,7 +74,7 @@ describe('Triangle', () => {
 
 //Test to verify that a new rectange object can be instantiated by inheriting shapes properties
 describe('Rectangle', () => {
-  it('should render a rectangular shape background', () => {
+  it('should render a logo rectangular shape background', () => {
     const text = "AbC";
     const textColor = "white";
     const logoColor = "#191970";

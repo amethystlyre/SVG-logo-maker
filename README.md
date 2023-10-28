@@ -25,7 +25,7 @@ This tool helps users quickly generate simple logo files saved in SVG file forma
 
 ## Usage
     
-Once the dependencies have been installed, you can invoke the application with command `node index.js` in the terminal. Follow the prompts to answer each question. The logo will be generated based on the user's input and saved as a SVG file, located under the "output" directory. For more detailed instructions, please watch the [walkthrough video](https://drive.google.com/file/d/15axoL5OmgDoXH9Jhs69r2NgD764oSSnD/view?usp=sharing).<br>
+Once the dependencies have been installed, you can invoke the application with command `node index.js` in the terminal. Follow the prompts to answer each question. The logo will be generated based on the user's input and saved as a SVG file, located under the "output" directory. For more detailed instructions, please watch the [walkthrough video](https://drive.google.com/file/d/18IfmoXKDeEJsVDvwjrCcDS_uIywsi7Cp/view?usp=sharing).<br>
 
 ![screenshot](./images/Screenshot3.png)
 

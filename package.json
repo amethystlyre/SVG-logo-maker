@@ -13,6 +13,7 @@
   "author": "BZ",
   "license": "MIT",
   "dependencies": {
+    "escape-html": "^1.0.3",
     "inquirer": "^8.2.4",
     "validate-color": "^2.2.4"
   },

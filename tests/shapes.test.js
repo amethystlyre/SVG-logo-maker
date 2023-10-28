@@ -52,7 +52,7 @@ describe('Circle', () => {
     expect(circle.render()).toBe(
       `<circle cx="150" cy="100" r="80" fill="#191970" />
 
-        <text x="150" y="120" font-size="60" text-anchor="middle" fill="white">AbC</text>`
+<text x="150" y="120" font-size="60" text-anchor="middle" fill="white">AbC</text>`
     );
   });
 });
@@ -67,7 +67,7 @@ describe('Triangle', () => {
     expect(triangle.render()).toBe(
       `<polygon points = "150,20 40,180 260,180" fill="#191970" />
 
-        <text x="150" y="150" font-size="60" text-anchor="middle" fill="white">AbC</text>`
+<text x="150" y="150" font-size="60" text-anchor="middle" fill="white">AbC</text>`
     );
   });
 });
@@ -82,7 +82,7 @@ describe('Rectangle', () => {
     expect(rectangle.render()).toBe(
       `<rect x="50" y="40" width="200" height="120" fill="#191970" />
 
-        <text x="150" y="120" font-size="60" text-anchor="middle" fill="white">AbC</text>`
+<text x="150" y="120" font-size="60" text-anchor="middle" fill="white">AbC</text>`
     );
   });
 });
